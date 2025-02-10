@@ -1,0 +1,21 @@
+body{
+   background-image: url(https://static.vecteezy.com/system/resources/thumbnails/049/695/834/small_2x/full-moon-glowing-over-clouds-with-a-starry-night-sky-free-photo.jpeg);
+   background-repeat: no-repeat;
+   background-size: 1920px;
+}
+#clock{
+   position: relative;
+   left: 870px;
+   top: 200px;
+   padding: 33px;
+   width: 213px;
+   background-color: transparent;
+   color: rgb(208, 244, 5);
+   border: none;
+   font-size: 37px;
+}
+#clock:hover{
+   background-color: blueviolet;
+   color: aqua;
+   font-size: 2.3rem;
+}
